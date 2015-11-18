@@ -1,0 +1,4 @@
+F:\20151106\sln\Debugging2\bin\Debug\Deadlocks.exe
+F:\20151106\sln\Debugging2\bin\Debug\Deadlocks.pdb
+F:\20151106\sln\Debugging2\obj\x86\Debug\Deadlocks.exe
+F:\20151106\sln\Debugging2\obj\x86\Debug\Deadlocks.pdb

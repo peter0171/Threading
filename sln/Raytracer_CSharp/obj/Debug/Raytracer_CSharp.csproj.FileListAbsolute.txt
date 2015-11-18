@@ -1,0 +1,11 @@
+F:\20151106\sln\Raytracer_CSharp\bin\Debug\Raytracer.exe.config
+F:\20151106\sln\Raytracer_CSharp\bin\Debug\Raytracer.exe
+F:\20151106\sln\Raytracer_CSharp\bin\Debug\Raytracer.pdb
+F:\20151106\sln\Raytracer_CSharp\bin\Debug\ParallelExtensionsExtras.dll
+F:\20151106\sln\Raytracer_CSharp\bin\Debug\ParallelExtensionsExtras.pdb
+F:\20151106\sln\Raytracer_CSharp\obj\Debug\Raytracer_CSharp.csprojResolveAssemblyReference.cache
+F:\20151106\sln\Raytracer_CSharp\obj\Debug\Microsoft.ParallelComputingPlatform.ParallelExtensions.Samples.MainForm.resources
+F:\20151106\sln\Raytracer_CSharp\obj\Debug\Microsoft.ParallelComputingPlatform.ParallelExtensions.Samples.Properties.Resources.resources
+F:\20151106\sln\Raytracer_CSharp\obj\Debug\Raytracer_CSharp.csproj.GenerateResource.Cache
+F:\20151106\sln\Raytracer_CSharp\obj\Debug\Raytracer.exe
+F:\20151106\sln\Raytracer_CSharp\obj\Debug\Raytracer.pdb

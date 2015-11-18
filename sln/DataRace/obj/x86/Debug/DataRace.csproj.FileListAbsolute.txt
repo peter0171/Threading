@@ -1,0 +1,4 @@
+F:\20151106\sln\DataRace\bin\Debug\DataRace.exe
+F:\20151106\sln\DataRace\bin\Debug\DataRace.pdb
+F:\20151106\sln\DataRace\obj\x86\Debug\DataRace.exe
+F:\20151106\sln\DataRace\obj\x86\Debug\DataRace.pdb

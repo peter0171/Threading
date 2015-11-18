@@ -1,0 +1,4 @@
+F:\20151106\sln\Temp\bin\Debug\Temp.exe
+F:\20151106\sln\Temp\bin\Debug\Temp.pdb
+F:\20151106\sln\Temp\obj\x86\Debug\Temp.exe
+F:\20151106\sln\Temp\obj\x86\Debug\Temp.pdb

@@ -1,0 +1,5 @@
+F:\20151106\sln\ParallelExtensionsExtras\bin\Debug\ParallelExtensionsExtras.dll
+F:\20151106\sln\ParallelExtensionsExtras\bin\Debug\ParallelExtensionsExtras.pdb
+F:\20151106\sln\ParallelExtensionsExtras\obj\Debug\ParallelExtensionsExtras.csprojResolveAssemblyReference.cache
+F:\20151106\sln\ParallelExtensionsExtras\obj\Debug\ParallelExtensionsExtras.dll
+F:\20151106\sln\ParallelExtensionsExtras\obj\Debug\ParallelExtensionsExtras.pdb
