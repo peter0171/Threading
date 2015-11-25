@@ -12,7 +12,7 @@ namespace Parallel
         static void Main(string[] args)
         {
             Stopwatch watch;
-            watch = new Stopwatch();
+          = new Stopwatch();
             watch.Start();
             //hello
             //serial implementation
