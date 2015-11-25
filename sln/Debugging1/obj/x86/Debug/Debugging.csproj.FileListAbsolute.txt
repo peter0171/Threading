@@ -3,3 +3,5 @@ F:\20151106\sln\Debugging1\bin\Debug\Debugging.pdb
 F:\20151106\sln\Debugging1\obj\x86\Debug\Debugging.exe
 F:\20151106\sln\Debugging1\obj\x86\Debug\Debugging.pdb
 F:\20151106\sln\Debugging1\obj\x86\Debug\Debugging.csprojResolveAssemblyReference.cache
+F:\GitHub0171\ParallelProgramming\sln\Debugging1\obj\x86\Debug\Debugging.exe
+F:\GitHub0171\ParallelProgramming\sln\Debugging1\obj\x86\Debug\Debugging.pdb
